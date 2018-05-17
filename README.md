@@ -2,7 +2,7 @@ The Color Game is based on the RGB color choosing scheme of CSS. RGB stands for 
 
 You will be shown six squares, each containing a different color. A random color scheme will be provided at the top of the page. Use this color scheme to click on the square with the matching color. 
 
-To play the game, clone this repo and open colorGame.html in a browser of your choice.
+To play the game, clone this repo.
 
 
 - Javascript, html, css
